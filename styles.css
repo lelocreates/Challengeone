@@ -1,0 +1,8 @@
+:root{
+    --gold: goldenrod;
+
+}
+
+h1 {
+    color: var(--gold);
+}
